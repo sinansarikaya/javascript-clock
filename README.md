@@ -16,7 +16,7 @@ $ git clone https://github.com/sinansarikaya/javascript-clock.git
 
 ### Demo
 
-#### [View Demo](https://sinansarikaya.github.io/javascript-counter/)
+#### [View Demo](https://sinansarikaya.github.io/javascript-clock/)
 
 ![JavaScript counter](./img/demo.jpeg)
 
